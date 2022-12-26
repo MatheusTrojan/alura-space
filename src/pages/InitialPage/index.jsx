@@ -7,12 +7,10 @@ export default function InitialPage() {
     return (
         <>    
             <Header />
-            <main>
-                <section className={style.main__section}>
-                    <Menu />    
-                    <Banner />
-                </section>
-            </main>
+            <section className={style.main__section}>
+                <Menu />    
+                <Banner />
+            </section>
         </>
     )
 }
