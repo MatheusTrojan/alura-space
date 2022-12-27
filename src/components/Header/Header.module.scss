@@ -36,13 +36,27 @@
     border: none;
     background-color: transparent;
     outline: 0;
+    font-family: "GandhiSansRegular";
 
     &::placeholder {
       font-size: 1rem;
+      font-family: "GandhiSansRegular";
     }
+  }
+
+  .logo__container {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+  }
+
+  .logo__container__title {
+    color: white;
+    font-family: "GandhiSansRegular";
   }
 
   img {
     cursor: pointer;
+    height: 50px;
   }
 }
