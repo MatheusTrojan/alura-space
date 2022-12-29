@@ -3,6 +3,7 @@ import Menu from "../../components/Menu";
 import style from "./InitialPage.module.scss"
 import Banner from "../../components/Banner";
 import Footer from "../../components/Footer";
+import Gallery from "../../components/Gallery";
 
 export default function InitialPage() {
     return (
@@ -12,6 +13,9 @@ export default function InitialPage() {
                 <Menu />    
                 <Banner />
             </section>
+            <div>
+                <Gallery />
+            </div>
             <Footer />
         </>
     )
