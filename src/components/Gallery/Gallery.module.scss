@@ -7,9 +7,11 @@
   h2 {
     color: $bordo;
     font-size: 24px;
+    text-align: center;
   }
 
   &__cards {
+    justify-content: center;
     list-style: none;
     padding: 0;
     display: flex;
@@ -63,6 +65,7 @@
 
   &__image {
     height: 75%;
+    text-align: center;
     width: 100%;
   }
 

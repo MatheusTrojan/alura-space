@@ -1,10 +1,66 @@
 [
-    {
-      "titulo": "Nome da Foto",
-      "creditos": "Alura Space",
-      "imagem": "/assets/imagens/galeria/fritz1.jpeg",
-      "id": "1",
-      "tag": "Galáxias"
-    }
-  ]
+  {
+    "title": "HotDog Fritz",
+    "credits": "Camila Duarte",
+    "image": "/assets/images/gallery/fritz1.jpeg",
+    "id": "1",
+    "tag": "Fritz"
+  },
+  {
+    "title": "HotDog Fritz",
+    "credits": "Camila Duarte",
+    "image": "/assets/images/gallery/fritz2.jpeg",
+    "id": "2",
+    "tag": "Fritz"
+  },
+  {
+    "title": "HotDog Fritz",
+    "credits": "Camila Duarte",
+    "image": "/assets/images/gallery/fritz3.jpeg",
+    "id": "3",
+    "tag": "Fritz"
+  },
+  {
+    "title": "HotDog Galega",
+    "credits": "Camila Duarte",
+    "image": "/assets/images/gallery/galega1.jpeg",
+    "id": "4",
+    "tag": "Galega"
+  },
+  {
+    "title": "HotDog Vegetariano",
+    "credits": "Camila Duarte",
+    "image": "/assets/images/gallery/veg1.jpeg",
+    "id": "5",
+    "tag": "Vegetariano"
+  },
+  {
+    "title": "HotDog Vegetariano",
+    "credits": "Camila Duarte",
+    "image": "/assets/images/gallery/veg2.jpeg",
+    "id": "6",
+    "tag": "Vegetariano"
+  },
+  {
+    "title": "Combo Tradicional",
+    "credits": "Camila Duarte",
+    "image": "/assets/images/gallery/tradicional-combo-1.jpeg",
+    "id": "7",
+    "tag": "Combo Tradicional"
+  },
+  {
+    "title": "Combo Galega",
+    "credits": "Camila Duarte",
+    "image": "/assets/images/gallery/galega-combo1.jpeg",
+    "id": "8",
+    "tag": "Galega"
+  },
+  {
+    "title": "Porção da Frida",
+    "credits": "Camila Duarte",
+    "image": "/assets/images/gallery/porcao-frida1.jpeg",
+    "id": "9",
+    "tag": "Porção da Frida"
+  }
+]
   
