@@ -1,0 +1,22 @@
+[
+    {
+      "path": "/assets/images/popular/fritz2.jpeg",
+      "alt": "HotDgo Fritz",
+      "id": 1
+    },
+    {
+      "path": "/assets/images/popular/galega1.jpeg",
+      "alt": "HotDog Galega",
+      "id": 2
+    },
+    {
+      "path": "/assets/images/popular/veg2.jpeg",
+      "alt": "HotDog Vegetariano",
+      "id": 3
+    },
+    {
+      "path": "/assets/images/popular/tradicional-combo-1.jpeg",
+      "alt": "Combo Tradicional",
+      "id": 4
+    }
+  ]

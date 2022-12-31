@@ -21,3 +21,10 @@
     font-family: "GandhiSansBold";
   }
 }
+
+@media screen and (max-width: 768px) {
+  .banner h1{
+    font-size: 2rem;
+    width: 200px;
+  }
+}
