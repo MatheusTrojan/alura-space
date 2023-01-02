@@ -10,7 +10,7 @@ export default function Header() {
                 <h2 className={styles.logo__container__title}>Frida's Dog</h2>
             </div>
             <div className={styles.header__container}>
-                <input className={styles.header__input} type="text" placeholder="O que você procura?" />
+                <input className={styles.header__input} type="text" placeholder="Procure pelo seu dog favorito!" />
                 <img src={search} alt="ícone de lupa" />
             </div>
         </header>
