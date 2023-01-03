@@ -1,3 +1,4 @@
+import Button from 'components/Button'
 import React from 'react'
 import popularPhotos from "./photos-popular.json"
 import styles from "./Popular.module.scss"
@@ -15,7 +16,7 @@ export default function Popular() {
                 )
             })}
         </ul>
-        <button>Ver mais fotos</button>
+        <Button> Ver mais fotos</Button>
     </aside>
   )
 }
