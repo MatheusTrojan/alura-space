@@ -27,26 +27,27 @@ O usuário deverá conseguir:
 ### Screenshot
 
 ![](public/assets/images/print1.png)
+
+<p>Imagem das imagens filtradas pela tag Fritz</p>
 ![](public/assets/images/print2.png)
 
 ### Deploy
 
-Acesse através deste [link](https://organograma-lotr.vercel.app/)
+Acesse através deste [link](https://fridas-dog.vercel.app/)
 
 ## Processo de Criação
 
 ### Projetado com
 
 - React
-- React Hooks
 - Componentes Reutilizáveis
 
 ### O que eu aprendi
 
 🟢 Como iniciar um projeto com React<br>
-🟢 Separação das pastas dos componentes para facilitar a manutençãot<br>
-🟢 Integração entre formulário e o DOM<br>
-🟢 Filtragem das informações de acordo com parâmetros<br>
+🟢 Separação das pastas dos componentes para facilitar a manutenção<br>
+🟢 Filtragem das imagens através de tags<br>
+🟢 Importação dinâmica de imagens, fontes e estilos<br>
 
 ## Autor
 
