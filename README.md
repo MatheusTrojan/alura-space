@@ -28,7 +28,8 @@ O usuário deverá conseguir:
 
 ![](public/assets/images/print1.png)
 
-<p>Imagem das imagens filtradas pela tag Fritz</p>
+#### Imagens filtradas pela tag Fritz
+
 ![](public/assets/images/print2.png)
 
 ### Deploy
