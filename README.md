@@ -1,39 +1,53 @@
-#  Teste técnico Pessoa Desenvolvedora Front-end Júnior
+# Site da Marca Frida's Dog
 
-Seja bem-vindo! Este desafio foi projetado para avaliar a capacidade técnica de candidatos às nossas vagas.  Neste repositório você encontra o enunciado do desafio para a vaga de Pessoa Desenvolvedora Front-end Júnior da [Alura Space](https://www.alura.com.br/)!
+<p>Uma página criada com o intuito de aprendizado em React, com a temática de uma empresa de uma conhecida minha</p>
 
-##  Desafio
+## Conteúdo deste Readme:
 
-A **Alura Space** é uma empresa de pesquisa espacial que faz imagens incríveis do universo observável, e vem buscando novas oportunidades de negócio. Porém, o time comercial não possui nenhuma ferramenta que facilite a visualização de suas fotos por clientes em potencial.
+- [Resumo](#resumo)
+  - [O Desafio](#o-desafio)
+  - [Screenshot](#screenshot)
+  - [Deploy](#deploy)
+- [Meu processo](#meu-processo)
+  - [Projetado com](#projetado-com)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+- [Autores](#autores)
 
-Para ajudar o time comercial, você deve **desenvolver uma interface que exiba as fotos coletadas pelos pesquisadores**. A interface já foi criada pelo time de design da empresa e [você pode acessá-la neste link](https://www.figma.com/file/Y1W8HJHKqlUdDFeWi8e4cz/Alura-Space-%7C-React%3A-arquivos-est%C3%A1ticos). Ela deve seguir a referência visual disponibilizada como logo, fontes e cores da marca registrada da empresa. 
+## Resumo
 
-[Os arquivos de imagens estão disponíveis neste link](https://github.com/NeiltonSeguins/teste-tecnico-alura-space/archive/refs/heads/main.zip), e para facilitar a usabilidade, crie pelo menos um filtro de imagens para a aplicação. Contudo, funcionalidades extras serão consideradas um diferencial.
+### O Desafio
 
-**Exemplo:** Filtrar imagens de planetas, estrelas ou galáxias quando for digitado esses termos na barra de pesquisa.
+A página tem como objetivo exibir os produtos ofertados pela empresa, onde o usuário deve conseguir filtrar os itens conforme sua preferência. Criado como forma de praticar a utilização do React, foi construído durante as aulas do curso de React da Alura. 
 
-Para se sair bem neste desafio, elaboramos um conjunto de instruções que deve ser seguidas, pois influenciarão nos critérios de avaliação dos projetos enviados. 
+O usuário deverá conseguir:
 
-##  Instruções
+- Visualizar todos cards com os produtos vendidos pela empresa;
+- Filtrar os produtos através das tags
 
-- Utilize apenas [CSS/SCSS](https://sass-guidelin.es/) desenvolvido por você.
+### Screenshot
 
-- Utilize HTML semântico.
+![](public/assets/images/print1.png)
+![](public/assets/images/print2.png)
 
-- Se preocupe com a UX e UI do projeto elas serão levadas em consideração na avaliação.
+### Deploy
 
-- Se atente nas [boas práticas do React.js](https://dev.to/abrahamlawson/react-style-guide-24pp).
+Acesse através deste [link](https://organograma-lotr.vercel.app/)
 
-- Faça o Deploy do projeto em algum serviço de hospedagem de sua preferência ([Vercel](https://vercel.com/), [Heroku](https://www.heroku.com/), [Netlify](https://www.netlify.com/), etc).
+## Processo de Criação
 
-- Crie um Readme do seu projeto que contenha no mínimo um passo a passo de como rodar a aplicação.
+### Projetado com
 
-## Avaliação
+- React
+- React Hooks
+- Componentes Reutilizáveis
 
-* Instruções de como rodar o projeto
-* Componentização e extensibilidade dos componentes Javascript
-* Organização, semântica, estrutura, legibilidade, manutenibilidade do seu código
-* Alcance dos objetivos propostos
+### O que eu aprendi
 
+🟢 Como iniciar um projeto com React<br>
+🟢 Separação das pastas dos componentes para facilitar a manutençãot<br>
+🟢 Integração entre formulário e o DOM<br>
+🟢 Filtragem das informações de acordo com parâmetros<br>
 
-Desejamos uma boa sorte à todos!
+## Autor
+
+- [Matheus Trojan](https://www.linkedin.com/in/matheus-trojan/)
