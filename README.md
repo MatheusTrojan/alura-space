@@ -40,6 +40,7 @@ Acesse através deste [link](https://organograma-lotr.vercel.app/)
 - React
 - React Hooks
 - Componentes Reutilizáveis
+- Responsividade para todas telas
 
 ### O que eu aprendi
 
